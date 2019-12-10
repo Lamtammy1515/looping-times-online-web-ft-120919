@@ -1,5 +1,5 @@
-loop phrase("Wingardium Leviosa") 7.times do
-  puts phrase
+loop 7.times do
+  puts 
 end
 
 
